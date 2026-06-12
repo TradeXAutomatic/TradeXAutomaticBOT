@@ -1,7 +1,7 @@
 # 🤖 TradeX Automatic
 
 **TradeX Automatic** is a fully automated trading system built for binary options and forex markets. It is designed to streamline trading operations through intelligent market scanning, signal generation, and automated execution.
-
+Official Telegram Channel: https://t.me/TradeX2024
 ---
 
 ## 🚀 Features
