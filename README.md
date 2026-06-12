@@ -86,7 +86,7 @@ For support, updates, and access:
 
 ## 👨‍💻 Author
 
-Developed by **Daniel**
+Developed by **Danial**
 Software Engineer | Trading Systems Developer
 
 ---
