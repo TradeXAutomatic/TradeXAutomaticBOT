@@ -29,6 +29,11 @@ Official Telegram Channel: https://t.me/TradeX2024
   Designed to control losses and protect capital.
 
 ---
+## 🖼️ Preview
+
+![TradeX Preview](photo_2026-06-12_18-06-45.jpg)
+
+---
 
 ## 📦 Installation
 
